@@ -1,0 +1,47 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7037 Starting - 02/11/2023, 13:19:44
+================================================================
+[13:20:40][haikun] created admins file
+[13:24:58][haikun] Changing global settings via setup stepper and started Deployer.
+[13:25:28][haikun] Setting recipe.
+[13:40:57][haikun] Running recipe.
+[13:43:18][haikun] Completed and committed server deploy.
+[13:46:47][haikun] Changing global settings.
+[14:04:55][haikun] Adding admin 'Celestibus'.
+[14:32:37][haikun] executed "RESTART SERVER"
+[14:56:24][MONITOR] Restarting server (server close detected).
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7037 Starting - 02/11/2023, 15:54:21
+================================================================
+[15:54:56][haikun] logged in from 127.0.0.1 via password
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7037 Starting - 02/11/2023, 16:02:44
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7037 Starting - 02/11/2023, 16:16:28
+================================================================
+[16:20:51][haikun] logged in from 127.0.0.1 via citizenfx
+[16:21:05][haikun] executed "RESTART SERVER"
+[16:28:11][haikun] Editing user 'Celestibus'.
+[16:46:06][haikun] logged in via in-game ui
+[16:46:15][Celestibus] logged in via in-game ui
+[16:58:40][haikun] Sending announcement: bande de folle
+[16:58:47][Celestibus] Sending announcement: c toi la folle
+[17:12:03][Celestibus] logged in from via NUI iframe
+[17:39:25][haikun] logged in via in-game ui
+[17:41:36][Celestibus] logged in via in-game ui
+[17:42:45][haikun] Editing user 'Celestibus'.
+[17:42:45][Celestibus] logged in via in-game ui
+[17:44:56][Celestibus] logged in from via NUI iframe
+[17:47:23][Celestibus] Changing own password.
+[17:47:23][Celestibus] logged in via in-game ui
+[17:48:09][Celestibus] logged in from 127.0.0.1 via password
+[17:48:39][Celestibus] executed "refresh"
+[17:50:33][Celestibus] Changing global settings.
+[17:50:43][haikun] executed "RESTART SERVER"
+[17:51:28][Celestibus] logged in via in-game ui
+[17:52:48][haikun] logged in via in-game ui

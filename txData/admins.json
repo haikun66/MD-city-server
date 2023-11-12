@@ -1,0 +1,73 @@
+[
+  {
+    "name": "haikun",
+    "master": true,
+    "password_hash": "$2a$11$6f1ArQZUxLLkqAfwBmglP.m8njEqF9IqyMPo/p188NUIHc7FhU2PG",
+    "providers": {
+      "citizenfx": {
+        "id": "haikun",
+        "identifier": "fivem:3387067",
+        "data": {
+          "sub": "23f93b6bdf48e11992820fb826bd638b",
+          "nameid": "https://forum.cfx.re/internal/user/3387067",
+          "name": "haikun",
+          "picture": "https://avatars.discourse.org/v4/letter/h/7933a0/256.png",
+          "profile": "https://forum.cfx.re/u/haikun"
+        }
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "Celestibus",
+    "master": false,
+    "password_hash": "$2a$11$QAEsmgplVyDzjXTJV/NRrOEI8krmo/YhNkb8nk9PgZlWr9MrtJO/2",
+    "providers": {
+      "discord": {
+        "id": "916025338402844722",
+        "identifier": "discord:916025338402844722",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "toketsux1",
+    "master": false,
+    "password_hash": "$2a$11$14zvX0.2XG9o3fj5IlLHNeNUZzT9dd/s6Eboh8w7mUEqM45XmvTcq",
+    "password_temporary": true,
+    "providers": {
+      "citizenfx": {
+        "id": "Naki_Lanchi",
+        "identifier": "fivem:11766581",
+        "data": {}
+      },
+      "discord": {
+        "id": "957720508336590848",
+        "identifier": "discord:957720508336590848",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "ayrone",
+    "master": false,
+    "password_hash": "$2a$11$7bOBySiWOAP5rhd4BmbDne175mxkTaWrCDw6/BRnGaFygIzcopEZO",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "1086961495755194399",
+        "identifier": "discord:1086961495755194399",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]
